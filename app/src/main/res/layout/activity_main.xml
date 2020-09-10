@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/mbtn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打电话发短信"/>
+    <Button
+        android:id="@+id/mbtn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="弹窗"/>
+    <Button
+        android:id="@+id/mbtn3"
+        android:text="listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mbtn4"
+        android:text="Glide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mbtn5"
+        android:text="OkHttp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mbtn6"
+        android:text="banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mbtn7"
+        android:text="RecyclerView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
