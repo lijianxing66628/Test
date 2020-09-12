@@ -7,6 +7,9 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+
+    <style name="textStyle"></style>
+
     <!-- 自定义控件风格-->
     <style name="Custom" />
 
